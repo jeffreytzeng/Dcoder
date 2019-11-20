@@ -9,7 +9,7 @@ class SumNumbers {
 		for (int i = 0; i <= integer; i++) {
 			total += i;
 		}
-		
+
 		System.out.println(total);
 	}
 }
